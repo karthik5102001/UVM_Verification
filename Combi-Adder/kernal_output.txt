@@ -1,0 +1,16 @@
+# KERNEL: UVM_INFO @ 0: reporter [RNTST] Running test test...
+# KERNEL: UVM_INFO /home/runner/testbench.sv(106) @ 0: uvm_test_top.env.agent.driver [DRIVER] THE VALUE A =  2, B = 1 , OUT = 0 
+# KERNEL: UVM_INFO /home/runner/testbench.sv(149) @ 10: uvm_test_top.env.agent.moni [MONITOR] THE VALUE A =  2, B = 1 , OUT = 3 
+# KERNEL: UVM_INFO /home/runner/testbench.sv(179) @ 10: uvm_test_top.env.scoreboard [SCO] Data rcvd from Monitor a: 2 , b : 1 and out : 3
+# KERNEL: UVM_INFO /home/runner/testbench.sv(181) @ 10: uvm_test_top.env.scoreboard [DONE] [VERIFIED]
+# KERNEL: UVM_INFO /home/runner/testbench.sv(106) @ 10: uvm_test_top.env.agent.driver [DRIVER] THE VALUE A = 15, B = 10 , OUT = 0 
+# KERNEL: UVM_INFO /home/runner/testbench.sv(149) @ 20: uvm_test_top.env.agent.moni [MONITOR] THE VALUE A = 15, B = 10 , OUT = 9 
+# KERNEL: UVM_INFO /home/runner/testbench.sv(179) @ 20: uvm_test_top.env.scoreboard [SCO] Data rcvd from Monitor a: 15 , b : 10 and out : 9
+# KERNEL: UVM_INFO /home/runner/testbench.sv(181) @ 20: uvm_test_top.env.scoreboard [DONE] [VERIFIED]
+# KERNEL: UVM_INFO /home/runner/testbench.sv(106) @ 20: uvm_test_top.env.agent.driver [DRIVER] THE VALUE A =  9, B = 12 , OUT = 0 
+# KERNEL: UVM_INFO /home/runner/testbench.sv(149) @ 30: uvm_test_top.env.agent.moni [MONITOR] THE VALUE A =  9, B = 12 , OUT = 5 
+# KERNEL: UVM_INFO /home/runner/testbench.sv(179) @ 30: uvm_test_top.env.scoreboard [SCO] Data rcvd from Monitor a: 9 , b : 12 and out : 5
+# KERNEL: UVM_INFO /home/runner/testbench.sv(181) @ 30: uvm_test_top.env.scoreboard [DONE] [VERIFIED]
+# KERNEL: UVM_INFO /home/build/vlib1/vlib/uvm-1.2/src/base/uvm_objection.svh(1271) @ 30: reporter [TEST_DONE] 'run' phase is ready to proceed to the 'extract' phase
+# KERNEL: UVM_INFO /home/build/vlib1/vlib/uvm-1.2/src/base/uvm_report_server.svh(869) @ 30: reporter [UVM/REPORT/SERVER] 
+# KERNEL: --- UVM Report Summary ---
