@@ -4,18 +4,12 @@
 // Engineer: 
 // 
 // Create Date: 09.07.2024 19:45:12
-// Design Name: 
+// Design Name: KARTHIK S
 // Module Name: 8x3_Priority_encoder
 // Project Name: 
 // Target Devices: 
 // Tool Versions: 
-// Description: 
-// 
-// Dependencies: 
-// 
-// Revision:
-// Revision 0.01 - File Created
-// Additional Comments:
+// Description: It a basic 8x3 Priority Encoder 
 // 
 //////////////////////////////////////////////////////////////////////////////////
 
