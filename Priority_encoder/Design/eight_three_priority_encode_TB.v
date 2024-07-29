@@ -4,18 +4,12 @@
 // Engineer: 
 // 
 // Create Date: 09.07.2024 20:03:33
-// Design Name: 
+// Design Name: KARTHIK S
 // Module Name: eight_three_priority_encoder_tb
 // Project Name: 
 // Target Devices: 
 // Tool Versions: 
-// Description: 
-// 
-// Dependencies: 
-// 
-// Revision:
-// Revision 0.01 - File Created
-// Additional Comments:
+// Description: Testbench for 8x3 Eriority Encoder design
 // 
 //////////////////////////////////////////////////////////////////////////////////
 
