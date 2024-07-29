@@ -1,0 +1,105 @@
+# KERNEL: UVM_INFO @ 0: reporter [RNTST] Running test Test...
+# KERNEL: UVM_INFO /home/runner/sequence_1.sv(16) @ 0: uvm_test_top.envio.age_1.Seqr@@Seq_1 [SEQ] a : 6  b : 12  y : 0
+# KERNEL: UVM_INFO /home/runner/Driver.sv(25) @ 0: uvm_test_top.envio.age_1.Driver [DRV] a : 6  b : 12  y : 0
+# KERNEL: UVM_INFO /home/runner/Monitor_1.sv(28) @ 20: uvm_test_top.envio.age_1.moni [MON] a : 6  b : 12  y : 72
+# KERNEL: ******************************************************************
+# KERNEL: UVM_INFO /home/runner/Scoreboard.sv(41) @ 20: uvm_test_top.envio.score [[SCRB]] NUMBER OF DATA 1 AND CORRECT DATA 1
+# KERNEL: ******************************************************************
+# KERNEL: UVM_INFO /home/runner/sequence_1.sv(16) @ 20: uvm_test_top.envio.age_1.Seqr@@Seq_1 [SEQ] a : 3  b : 5  y : 0
+# KERNEL: UVM_INFO /home/runner/Driver.sv(25) @ 20: uvm_test_top.envio.age_1.Driver [DRV] a : 3  b : 5  y : 0
+# KERNEL: UVM_INFO /home/runner/Monitor_1.sv(28) @ 40: uvm_test_top.envio.age_1.moni [MON] a : 3  b : 5  y : 15
+# KERNEL: ******************************************************************
+# KERNEL: UVM_INFO /home/runner/Scoreboard.sv(41) @ 40: uvm_test_top.envio.score [[SCRB]] NUMBER OF DATA 2 AND CORRECT DATA 2
+# KERNEL: ******************************************************************
+# KERNEL: UVM_INFO /home/runner/sequence_1.sv(16) @ 40: uvm_test_top.envio.age_1.Seqr@@Seq_1 [SEQ] a : 13  b : 7  y : 0
+# KERNEL: UVM_INFO /home/runner/Driver.sv(25) @ 40: uvm_test_top.envio.age_1.Driver [DRV] a : 13  b : 7  y : 0
+# KERNEL: UVM_INFO /home/runner/Monitor_1.sv(28) @ 60: uvm_test_top.envio.age_1.moni [MON] a : 13  b : 7  y : 91
+# KERNEL: ******************************************************************
+# KERNEL: UVM_INFO /home/runner/Scoreboard.sv(41) @ 60: uvm_test_top.envio.score [[SCRB]] NUMBER OF DATA 3 AND CORRECT DATA 3
+# KERNEL: ******************************************************************
+# KERNEL: UVM_INFO /home/runner/sequence_1.sv(16) @ 60: uvm_test_top.envio.age_1.Seqr@@Seq_1 [SEQ] a : 4  b : 2  y : 0
+# KERNEL: UVM_INFO /home/runner/Driver.sv(25) @ 60: uvm_test_top.envio.age_1.Driver [DRV] a : 4  b : 2  y : 0
+# KERNEL: UVM_INFO /home/runner/Monitor_1.sv(28) @ 80: uvm_test_top.envio.age_1.moni [MON] a : 4  b : 2  y : 8
+# KERNEL: ******************************************************************
+# KERNEL: UVM_INFO /home/runner/Scoreboard.sv(41) @ 80: uvm_test_top.envio.score [[SCRB]] NUMBER OF DATA 4 AND CORRECT DATA 4
+# KERNEL: ******************************************************************
+# KERNEL: UVM_INFO /home/runner/sequence_1.sv(16) @ 80: uvm_test_top.envio.age_1.Seqr@@Seq_1 [SEQ] a : 8  b : 6  y : 0
+# KERNEL: UVM_INFO /home/runner/Driver.sv(25) @ 80: uvm_test_top.envio.age_1.Driver [DRV] a : 8  b : 6  y : 0
+# KERNEL: UVM_INFO /home/runner/Monitor_1.sv(28) @ 100: uvm_test_top.envio.age_1.moni [MON] a : 8  b : 6  y : 48
+# KERNEL: ******************************************************************
+# KERNEL: UVM_INFO /home/runner/Scoreboard.sv(41) @ 100: uvm_test_top.envio.score [[SCRB]] NUMBER OF DATA 5 AND CORRECT DATA 5
+# KERNEL: ******************************************************************
+# KERNEL: UVM_INFO /home/runner/sequence_1.sv(16) @ 100: uvm_test_top.envio.age_1.Seqr@@Seq_1 [SEQ] a : 9  b : 3  y : 0
+# KERNEL: UVM_INFO /home/runner/Driver.sv(25) @ 100: uvm_test_top.envio.age_1.Driver [DRV] a : 9  b : 3  y : 0
+# KERNEL: UVM_INFO /home/runner/Monitor_1.sv(28) @ 120: uvm_test_top.envio.age_1.moni [MON] a : 9  b : 3  y : 27
+# KERNEL: ******************************************************************
+# KERNEL: UVM_INFO /home/runner/Scoreboard.sv(41) @ 120: uvm_test_top.envio.score [[SCRB]] NUMBER OF DATA 6 AND CORRECT DATA 6
+# KERNEL: ******************************************************************
+# KERNEL: UVM_INFO /home/runner/sequence_1.sv(16) @ 120: uvm_test_top.envio.age_1.Seqr@@Seq_1 [SEQ] a : 7  b : 9  y : 0
+# KERNEL: UVM_INFO /home/runner/Driver.sv(25) @ 120: uvm_test_top.envio.age_1.Driver [DRV] a : 7  b : 9  y : 0
+# KERNEL: UVM_INFO /home/runner/Monitor_1.sv(28) @ 140: uvm_test_top.envio.age_1.moni [MON] a : 7  b : 9  y : 63
+# KERNEL: ******************************************************************
+# KERNEL: UVM_INFO /home/runner/Scoreboard.sv(41) @ 140: uvm_test_top.envio.score [[SCRB]] NUMBER OF DATA 7 AND CORRECT DATA 7
+# KERNEL: ******************************************************************
+# KERNEL: UVM_INFO /home/runner/sequence_1.sv(16) @ 140: uvm_test_top.envio.age_1.Seqr@@Seq_1 [SEQ] a : 2  b : 8  y : 0
+# KERNEL: UVM_INFO /home/runner/Driver.sv(25) @ 140: uvm_test_top.envio.age_1.Driver [DRV] a : 2  b : 8  y : 0
+# KERNEL: UVM_INFO /home/runner/Monitor_1.sv(28) @ 160: uvm_test_top.envio.age_1.moni [MON] a : 2  b : 8  y : 16
+# KERNEL: ******************************************************************
+# KERNEL: UVM_INFO /home/runner/Scoreboard.sv(41) @ 160: uvm_test_top.envio.score [[SCRB]] NUMBER OF DATA 8 AND CORRECT DATA 8
+# KERNEL: ******************************************************************
+# KERNEL: UVM_INFO /home/runner/sequence_1.sv(16) @ 160: uvm_test_top.envio.age_1.Seqr@@Seq_1 [SEQ] a : 10  b : 0  y : 0
+# KERNEL: UVM_INFO /home/runner/Driver.sv(25) @ 160: uvm_test_top.envio.age_1.Driver [DRV] a : 10  b : 0  y : 0
+# KERNEL: UVM_INFO /home/runner/Monitor_1.sv(28) @ 180: uvm_test_top.envio.age_1.moni [MON] a : 10  b : 0  y : 0
+# KERNEL: ******************************************************************
+# KERNEL: UVM_INFO /home/runner/Scoreboard.sv(41) @ 180: uvm_test_top.envio.score [[SCRB]] NUMBER OF DATA 9 AND CORRECT DATA 9
+# KERNEL: ******************************************************************
+# KERNEL: UVM_INFO /home/runner/sequence_1.sv(16) @ 180: uvm_test_top.envio.age_1.Seqr@@Seq_1 [SEQ] a : 15  b : 1  y : 0
+# KERNEL: UVM_INFO /home/runner/Driver.sv(25) @ 180: uvm_test_top.envio.age_1.Driver [DRV] a : 15  b : 1  y : 0
+# KERNEL: UVM_INFO /home/runner/Monitor_1.sv(28) @ 200: uvm_test_top.envio.age_1.moni [MON] a : 15  b : 1  y : 15
+# KERNEL: ******************************************************************
+# KERNEL: UVM_INFO /home/runner/Scoreboard.sv(41) @ 200: uvm_test_top.envio.score [[SCRB]] NUMBER OF DATA 10 AND CORRECT DATA 10
+# KERNEL: ******************************************************************
+# KERNEL: UVM_INFO /home/runner/sequence_1.sv(16) @ 200: uvm_test_top.envio.age_1.Seqr@@Seq_1 [SEQ] a : 1  b : 11  y : 0
+# KERNEL: UVM_INFO /home/runner/Driver.sv(25) @ 200: uvm_test_top.envio.age_1.Driver [DRV] a : 1  b : 11  y : 0
+# KERNEL: UVM_INFO /home/runner/Monitor_1.sv(28) @ 220: uvm_test_top.envio.age_1.moni [MON] a : 1  b : 11  y : 11
+# KERNEL: ******************************************************************
+# KERNEL: UVM_INFO /home/runner/Scoreboard.sv(41) @ 220: uvm_test_top.envio.score [[SCRB]] NUMBER OF DATA 11 AND CORRECT DATA 11
+# KERNEL: ******************************************************************
+# KERNEL: UVM_INFO /home/runner/sequence_1.sv(16) @ 220: uvm_test_top.envio.age_1.Seqr@@Seq_1 [SEQ] a : 0  b : 14  y : 0
+# KERNEL: UVM_INFO /home/runner/Driver.sv(25) @ 220: uvm_test_top.envio.age_1.Driver [DRV] a : 0  b : 14  y : 0
+# KERNEL: UVM_INFO /home/runner/Monitor_1.sv(28) @ 240: uvm_test_top.envio.age_1.moni [MON] a : 0  b : 14  y : 0
+# KERNEL: ******************************************************************
+# KERNEL: UVM_INFO /home/runner/Scoreboard.sv(41) @ 240: uvm_test_top.envio.score [[SCRB]] NUMBER OF DATA 12 AND CORRECT DATA 12
+# KERNEL: ******************************************************************
+# KERNEL: UVM_INFO /home/runner/sequence_1.sv(16) @ 240: uvm_test_top.envio.age_1.Seqr@@Seq_1 [SEQ] a : 12  b : 10  y : 0
+# KERNEL: UVM_INFO /home/runner/Driver.sv(25) @ 240: uvm_test_top.envio.age_1.Driver [DRV] a : 12  b : 10  y : 0
+# KERNEL: UVM_INFO /home/runner/Monitor_1.sv(28) @ 260: uvm_test_top.envio.age_1.moni [MON] a : 12  b : 10  y : 120
+# KERNEL: ******************************************************************
+# KERNEL: UVM_INFO /home/runner/Scoreboard.sv(41) @ 260: uvm_test_top.envio.score [[SCRB]] NUMBER OF DATA 13 AND CORRECT DATA 13
+# KERNEL: ******************************************************************
+# KERNEL: UVM_INFO /home/runner/sequence_1.sv(16) @ 260: uvm_test_top.envio.age_1.Seqr@@Seq_1 [SEQ] a : 5  b : 15  y : 0
+# KERNEL: UVM_INFO /home/runner/Driver.sv(25) @ 260: uvm_test_top.envio.age_1.Driver [DRV] a : 5  b : 15  y : 0
+# KERNEL: UVM_INFO /home/runner/Monitor_1.sv(28) @ 280: uvm_test_top.envio.age_1.moni [MON] a : 5  b : 15  y : 75
+# KERNEL: ******************************************************************
+# KERNEL: UVM_INFO /home/runner/Scoreboard.sv(41) @ 280: uvm_test_top.envio.score [[SCRB]] NUMBER OF DATA 14 AND CORRECT DATA 14
+# KERNEL: ******************************************************************
+# KERNEL: UVM_INFO /home/runner/sequence_1.sv(16) @ 280: uvm_test_top.envio.age_1.Seqr@@Seq_1 [SEQ] a : 11  b : 13  y : 0
+# KERNEL: UVM_INFO /home/runner/Driver.sv(25) @ 280: uvm_test_top.envio.age_1.Driver [DRV] a : 11  b : 13  y : 0
+# KERNEL: UVM_INFO /home/runner/Monitor_1.sv(28) @ 300: uvm_test_top.envio.age_1.moni [MON] a : 11  b : 13  y : 143
+# KERNEL: ******************************************************************
+# KERNEL: UVM_INFO /home/runner/Scoreboard.sv(41) @ 300: uvm_test_top.envio.score [[SCRB]] NUMBER OF DATA 15 AND CORRECT DATA 15
+# KERNEL: ******************************************************************
+# KERNEL: UVM_INFO /home/build/vlib1/vlib/uvm-1.2/src/base/uvm_objection.svh(1271) @ 300: reporter [TEST_DONE] 'run' phase is ready to proceed to the 'extract' phase
+# KERNEL: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+# KERNEL: UVM_INFO /home/runner/Scoreboard.sv(62) @ 300: uvm_test_top.envio.score [[FINAL]] Result Pass 15
+# KERNEL: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+# KERNEL: ------------------------------------------------------------------------
+# KERNEL: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+# KERNEL: UVM_INFO /home/runner/Scoreboard.sv(66) @ 300: uvm_test_top.envio.score [[FINAL]] Result Failed 0
+# KERNEL: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+# KERNEL: ------------------------------------------------------------------------
+# KERNEL: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+# KERNEL: UVM_INFO /home/runner/Scoreboard.sv(70) @ 300: uvm_test_top.envio.score [[FINAL]] Total Data sent 15
+# KERNEL: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+# KERNEL: UVM_INFO /home/build/vlib1/vlib/uvm-1.2/src/base/uvm_report_server.svh(869) @ 300: reporter [UVM/REPORT/SERVER] 
+# KERNEL: --- UVM Report Summary ---
